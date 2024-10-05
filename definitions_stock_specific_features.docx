@@ -1,0 +1,297 @@
+1. Firm Age 
+Definition: Number of years since the company's founding or listing.
+
+2. Liquidity of Book Assets
+Definition: Ease with which a firm's assets on the balance sheet can be converted to cash.
+
+3. Liquidity of Market Assets
+Definition: Ease of buying or selling a firm’s assets or stock without affecting its price.
+
+4. Amihud Measure
+Definition: Measures price impact of trading volume, indicating stock illiquidity.
+
+5. Book Leverage
+Definition: Ratio of a company’s total debt to its total assets.
+
+6. Asset Growth
+Definition: Percentage increase in a company’s total assets over a period.
+
+7. Assets-to-Market
+Definition: Ratio of a company’s book value of assets to its market value.
+
+8. Capital Turnover
+Definition: Revenue generated per dollar of capital employed.
+
+9. Change in Common Equity
+Definition: Year-over-year change in the amount of equity held by common shareholders.
+
+10. Book-to-Market Equity
+Definition: Ratio of a company’s book value of equity to its market value of equity (market cap).
+
+11. Market Beta
+Definition: A stock's sensitivity to market movements. A beta of 1 means the stock moves in line with the market.
+
+12. Dimson Beta
+Definition: Adjusted beta that accounts for thin or infrequent trading by incorporating lagged market returns.
+
+13. Frazzini-Pedersen Market Beta
+Definition: A beta adjusted for the leverage effect, showing how low-beta stocks leverage to achieve market-like returns.
+
+14. Downside Beta
+Definition: Measures a stock’s sensitivity to negative market movements.
+
+15. Book-to-Market Enterprise Value
+Definition: Ratio of a firm's book value (equity and debt) to its market enterprise value.
+
+16. The High-Low Bid-Ask Spread
+Definition: A measure of liquidity calculated by the difference between the highest and lowest bid-ask spread over a period.
+
+17. Abnormal Corporate Investment
+Definition: Investments made by a firm that deviate from normal levels, often compared to industry or historical norms.
+
+18. Capex Growth (1 Year)
+Definition: The percentage increase in a company’s capital expenditures over the past year.
+
+19. Capex Growth (2 Years)
+Definition: The percentage increase in capital expenditures over the past two years.
+
+20. Capex Growth (3 Years)
+Definition: The percentage increase in capital expenditures over the past three years.
+
+21. Cash to Assets
+Definition: Ratio of cash and cash equivalents to total assets, showing liquidity.
+
+22. Net Stock Issues
+Definition: The net amount of new equity issued by a company, typically calculated as the difference in shares outstanding.
+
+23. Change in Current Operating Assets
+Definition: The change in short-term assets used in the company’s operations, such as inventory or receivables.
+
+24. Change in Current Operating Liabilities
+Definition: The change in short-term liabilities related to a company’s operations, such as accounts payable.
+
+25. Cash-Based Operating Profits-to-Book Assets
+Definition: Ratio of cash-based operating profits to the book value of assets, indicating cash profitability relative to asset base.
+
+26. Market Correlation
+Definition: A stock’s correlation with the overall market, indicating how closely it moves with market trends.
+
+27. Coskewness
+Definition: A measure of how a stock's returns skew in relation to the market's returns, indicating asymmetry in performance.
+
+28. Change in Current Operating Working Capital
+Definition: The change in a company’s net working capital (current assets minus current liabilities) related to operations.
+
+29. Net Debt Issuance
+Definition: The net amount of new debt issued by a firm, calculated as the difference between new debt and debt repayments.
+
+30. Growth in Book Debt (3 Years)
+Definition: The percentage increase in the company’s total debt over the past three years, based on book values.
+
+31. Debt to Market
+Definition: The ratio of a company’s total debt to its market value, indicating leverage relative to market valuation.
+
+32. Change Gross Margin Minus Change Sales
+Definition: The difference between the change in gross margin and the change in sales, indicating profitability trends.
+
+33. Dividend Yield
+Definition: A company’s annual dividends per share divided by its stock price, expressed as a percentage.
+
+34. Dollar Trading Volume
+Definition: The total dollar value of shares traded over a period.
+
+35. Coefficient of Variation for Dollar Trading Volume
+Definition: Measures the variability of dollar trading volume relative to the average, showing volatility in trading activity.
+
+36. Change Sales Minus Change Inventory
+Definition: The difference between the change in sales and the change in inventory, indicating how well a company is managing inventory in relation to sales growth.
+
+37. Change Sales Minus Change Receivables
+Definition: The difference between the change in sales and the change in receivables, reflecting the quality of sales (i.e., how much is cash vs. credit).
+
+38. Change Sales Minus Change SG&A
+Definition: The difference between the change in sales and the change in selling, general, and administrative expenses, indicating operational efficiency.
+
+39. Earnings Variability
+Definition: The degree to which a company’s earnings fluctuate over time, indicating stability or volatility in profits.
+
+40. Return on Net Operating Assets (RNOA)
+Definition: Ratio of net operating income to net operating assets, showing how efficiently a company generates profits from its core assets.
+
+41. Profit Margin
+Definition: Ratio of net income to total revenue, indicating how much profit a company makes from each dollar of sales.
+
+42. EBITDA-to-Market Enterprise Value
+Definition: Ratio of EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) to enterprise value, a valuation metric showing earnings relative to market value.
+
+43. Hiring Rate
+Definition: The rate at which a company is increasing its workforce, often calculated as the percentage change in the number of employees.
+
+44. Equity Duration
+Definition: A measure of a stock's sensitivity to changes in interest rates, reflecting the time it takes to recover the stock's price through cash flows.
+
+45. Net Equity Insurance
+Definition: The amount of insurance coverage a firm has on its equity, used to protect against market downturns.
+
+46. Equity Net Payout
+Definition: The total cash returned to shareholders through dividends and share buybacks minus any new equity issued.
+
+47. Net Payout Yield
+Definition: The ratio of net equity payouts to the market value of equity, indicating the cash returned to shareholders relative to the company's market value.
+
+48. Payout Yield
+Definition: The total cash paid out to shareholders (dividends and buybacks) divided by the market value of equity.
+
+49. Piotroski F-Score
+Definition: A score between 0 and 9 that evaluates a company's financial strength based on nine accounting-based criteria.
+
+50. Free Cash Flow to Price
+Definition: The ratio of free cash flow per share to the market price per share, indicating cash flow generation relative to stock price.
+
+51. Change in Financial Liabilities
+Definition: The year-over-year change in a company's financial obligations, including debts and other liabilities.
+
+52. Gross Profits to Assets
+Definition: The ratio of gross profits to total assets, indicating how efficiently a company generates profits from its assets.
+
+53. Gross Profits to Lagged Assets
+Definition: The ratio of gross profits to previous period's total assets, reflecting profitability relative to past asset levels.
+
+54. Intrinsic Value-to-Market
+Definition: The ratio of a stock's intrinsic value (calculated fundamental value) to its market price, indicating potential undervaluation or overvaluation.
+
+55. Inventory Growth
+Definition: The percentage increase in a company's inventory over a specified period.
+
+56. Inventory Change
+Definition: The difference in inventory levels between two periods, reflecting changes in stock on hand.
+
+57. Idiosyncratic Skewness from CAPM
+Definition: A measure of the asymmetry of a stock's return distribution, derived from its CAPM (Capital Asset Pricing Model) residuals.
+
+58. Idiosyncratic Skewness from the Fama-French 3-Factor Model
+Definition: A measure of return distribution asymmetry based on stock returns explained by the Fama-French 3-factor model.
+
+59. Idiosyncratic Skewness from the Q-Factor Model
+Definition: A measure of asymmetry in stock returns derived from the q-factor model, which includes investment and profitability factors.
+
+60. Idiosyncratic Volatility from the CAPM (21 Days)
+Definition: A measure of a stock's return variability over a 21-day period, capturing fluctuations not explained by the market.
+
+61. Idiosyncratic Volatility from the CAPM (252 Days)
+Definition: A measure of a stock's return variability over a 252-day period, indicating longer-term fluctuations independent of market movements.
+
+62. Idiosyncratic Volatility from the Fama-French 3-Factor Model
+Definition: A measure of return variability not explained by the Fama-French 3-factor model, indicating unique stock risk.
+
+63. Idiosyncratic Volatility from the Q-Factor Model
+Definition: A measure of stock return variability based on the q-factor model, indicating volatility independent of systematic factors.
+
+64. Kaplan-Zingales Index
+Definition: A measure of a firm's financial constraints, indicating its ability to finance investments through internal cash flow versus external debt.
+
+65. Change in Long-Term Net Operating Assets
+Definition: The year-over-year change in a company's long-term operating assets, reflecting investment in operational capacity.
+
+66. Change in Long-Term Investments
+Definition: The year-over-year change in a company's long-term investment holdings, such as stocks or bonds.
+
+67. Market Equity
+Definition: The total market value of a company's outstanding shares, calculated as share price times shares outstanding.
+
+68. Mispricing Factor: Management
+Definition: A factor reflecting market mispricing related to a company's management decisions and performance.
+
+69. Mispricing Factor: Performance
+Definition: A factor reflecting market mispricing based on a company's operational and financial performance metrics.
+
+70. Change in Noncurrent Operating Assets
+Definition: The change in a company's long-term operational assets over a period, indicating investment in fixed assets.
+
+71. Change in Noncurrent Operating Liabilities
+Definition: The change in a company's long-term operational liabilities over a period, reflecting shifts in long-term obligations.
+
+72. Net Debt to Price
+Definition: The ratio of a company's net debt (total debt minus cash) to its market price, indicating leverage relative to stock price.
+
+73. Net Total Issuance
+Definition: The net amount of new shares issued minus shares repurchased by the company, reflecting overall equity financing activity.
+
+74. Change in Net Financial Assets
+Definition: The change in a company's net financial assets (financial assets minus financial liabilities) over a period.
+
+75. Earnings Persistence
+Definition: The tendency of a company's earnings to remain stable or predictable over time, indicating reliability.
+
+76. Return on Equity (ROE)
+Definition: The ratio of net income to shareholder equity, indicating how efficiently a company generates profits from equity capital.
+
+77. Number of Consecutive Quarters with Earnings Increases
+Definition: The count of consecutive quarters in which a company has reported earnings growth, indicating performance consistency.
+
+78. Earnings Volatility
+Definition: The degree of variability in a company's earnings over time, reflecting stability or risk.
+
+79. Earnings to Price
+Definition: The ratio of a company's earnings per share to its stock price, often referred to as the earnings yield.
+
+80. Quarterly Return on Assets (ROA)
+Definition: The ratio of quarterly net income to total assets, indicating how efficiently a company uses its assets to generate earnings.
+
+81. Change in Quarterly Return on Assets
+Definition: The difference in quarterly ROA from one period to the next, indicating shifts in asset efficiency.
+
+82. Quarterly Return on Equity (ROE)
+Definition: The ratio of quarterly net income to shareholder equity, indicating quarterly profitability relative to equity.
+
+83. Change in Quarterly Return on Equity
+Definition: The difference in quarterly ROE from one period to the next, reflecting changes in profitability relative to equity.
+
+84. Standardized Earnings Surprise
+Definition: A measure of the difference between reported earnings and expected earnings, standardized to account for variability.
+
+85. Change in Noncurrent Operating Assets
+Definition: The change in long-term operating assets over a period, indicating shifts in investment in fixed assets.
+
+86. Ohlson O-Score
+Definition: A predictive model for bankruptcy risk based on financial ratios, with a score indicating likelihood of failure.
+
+87. Operating Accruals
+Definition: The difference between net income and cash flow from operations, reflecting non-cash earnings.
+
+88. Percent Operating Accruals
+Definition: Operating accruals expressed as a percentage of total assets, indicating the level of non-cash earnings.
+
+89. Operating Cash Flow to Assets
+Definition: The ratio of operating cash flow to total assets, indicating cash-generating efficiency relative to asset base.
+
+90. Change in Operating Cash Flow to Assets
+Definition: The difference in the ratio of operating cash flow to assets from one period to the next, indicating shifts in cash efficiency.
+
+91. Asset Tangibility
+Definition: The proportion of a company's tangible assets (physical assets) to total assets, reflecting asset structure.
+
+92. Tax Expense Surprise
+Definition: The difference between expected and actual tax expenses reported by a company, indicating potential misestimations.
+
+93. Share Turnover
+Definition: The ratio of the number of shares traded over a specific period to the average number of outstanding shares, indicating liquidity.
+
+94. Coefficient of Variation for Share Turnover
+Definition: A measure of the relative variability of share turnover, calculated as the standard deviation of share turnover divided by its mean.
+
+95. Altman Z-Score
+Definition: A formula that predicts the probability of a company entering bankruptcy within two years, based on financial ratios and market value.
+
+96. Number of Zero Trades with Turnover as Tiebreaker (6 Months)
+Definition: The count of trading days with zero volume over the past six months, using turnover (trading volume relative to outstanding shares) to distinguish between zero-trade days.
+
+97. Number of Zero Trades with Turnover as Tiebreaker (1 Month)
+Definition: The count of trading days with zero volume over the past month, with turnover used as a secondary criterion to identify trading inactivity.
+
+98. Number of Zero Trades with Turnover as Tiebreaker (12 Months)
+Definition: The count of trading days with zero volume over the past twelve months, utilizing turnover to further clarify trading inactivity.
+
+
+
+95 to 140 of factor_char_list english meaning not there
